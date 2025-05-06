@@ -1,7 +1,5 @@
 # 📚 BookShelfApp-Dicoding
 
-A personal Bookshelf App — feel free to explore and take inspiration, but please **don't submit this as your own Dicoding project!** 😊
-
 **BookShelfApp** is a simple web application that allows users to manage a list of books they want to read or have already finished. It includes features to add, search, edit, and delete books, with all data stored locally using `localStorage`.
 
 ---
