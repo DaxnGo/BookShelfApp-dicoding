@@ -25,22 +25,9 @@
 
 ---
 
-## 📁 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/BookShelfApp-dicoding.git
+## **📚 Course Reference**
+This project was submitted as part of the Dicoding Indonesia learning path:  
+🔗 _Belajar Back-End Pemula dengan JavaScript_  
+[Dicoding Course Link](https://www.dicoding.com/academies/163)
 
 ---
-
-
-## 📌 Disclaimer
-This project was built as part of the Dicoding Indonesia learning path. Please use it for learning and reference purposes only.
-
-### ✅ Next Step:
-Save this as `README.md` in your project root directory, commit the file, and push to GitHub:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
