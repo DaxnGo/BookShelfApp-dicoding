@@ -1,18 +1,48 @@
-# 📚 BookShelfApp-dicoding
-My Personal Bookshelf App (Feel free to use it for inspiration, but not for your Dicoding submission! 😊)
-Bookshelf App adalah aplikasi web sederhana untuk menyimpan daftar buku yang ingin atau sudah dibaca. Aplikasi ini memungkinkan pengguna menambahkan, mencari, mengedit, dan menghapus buku, serta menyimpan data secara lokal menggunakan `localStorage`.
+# 📚 BookShelfApp-Dicoding
 
-## 🚀 Fitur
-- **Menambahkan Buku**: Simpan informasi buku (judul, penulis, tahun) dan statusnya (selesai/belum dibaca).
-- **Menyimpan Data**: Data tetap tersimpan meskipun halaman di-refresh.
-- **Menampilkan Buku**: Buku ditampilkan dalam dua kategori:
-  - 📖 **Belum selesai dibaca**
-  - ✅ **Selesai dibaca**
-- **Mencari Buku**: Cari buku berdasarkan judul.
-- **Mengedit & Menghapus Buku**: Perbarui atau hapus buku dari daftar.
+A personal Bookshelf App — feel free to explore and take inspiration, but please **don't submit this as your own Dicoding project!** 😊
 
-## 🛠️ Teknologi yang Digunakan
-- **HTML**: Struktur halaman
-- **CSS**: Tampilan dan desain
-- **JavaScript**: Logika aplikasi dan interaksi pengguna
-- **localStorage**: Penyimpanan data lokal di browser
+**BookShelfApp** is a simple web application that allows users to manage a list of books they want to read or have already finished. It includes features to add, search, edit, and delete books, with all data stored locally using `localStorage`.
+
+---
+
+## 🚀 Features
+
+- **Add Books**: Save book information including title, author, year, and reading status (finished or not).
+- **Persistent Storage**: Data remains saved even after the page is refreshed, thanks to `localStorage`.
+- **Book Display**: Books are categorized and displayed under:
+  - 📖 **Not Yet Finished Reading**
+  - ✅ **Finished Reading**
+- **Search Books**: Quickly find books by title.
+- **Edit & Delete**: Update or remove books from your list easily.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML** – Page structure
+- **CSS** – Styling and layout
+- **JavaScript** – App logic and user interaction
+- **localStorage** – Browser-based local data storage
+
+---
+
+## 📁 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/BookShelfApp-dicoding.git
+
+---
+
+
+## 📌 Disclaimer
+This project was built as part of the Dicoding Indonesia learning path. Please use it for learning and reference purposes only.
+
+### ✅ Next Step:
+Save this as `README.md` in your project root directory, commit the file, and push to GitHub:
+
+```bash
+git add README.md
+git commit -m "Add project README"
+git push
